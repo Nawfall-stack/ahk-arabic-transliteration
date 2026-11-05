@@ -1,0 +1,11 @@
+# Hasil kompilasi
+*.exe
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp

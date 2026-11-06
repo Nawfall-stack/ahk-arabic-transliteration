@@ -87,11 +87,11 @@ Pada `y--` dan `w--`, huruf `i`/`e` dan `u` juga bisa dipakai (`i--`, `e--`, `u-
 
 | Ketik | Hasil |
 |---|---|
-| `salam` | سلام |
+| `slam` | سلام |
 | `ktab` | كتاب |
 | `s'kran` | شكران |
 | `g'yr` | غير |
-| `yawm` | يوم |
+| `ywm` | يوم |
 | `rsul` | رسول |
 | `k=at=ab=a` | كَتَبَ |
 | `b=w` | بّ |
